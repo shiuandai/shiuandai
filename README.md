@@ -1,4 +1,7 @@
 ### Hi there 👋
+🌱 I’m currently self-learning front-end development.
+🔭 I’m currently working on my personal portfolio.
+📫 How to reach me: vis Instagram @shiuandai
 
 <!--
 **shiuandai/shiuandai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
